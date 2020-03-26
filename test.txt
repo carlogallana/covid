@@ -1,0 +1,21 @@
+Server,Instance Load
+ec2-343-237-71.compute-1.amazonaws.com,11.610702853101978
+ec2-323-88-226.compute-1.amazonaws.com,70.62395411858775
+ec2-261-58-181.compute-1.amazonaws.com,52.3174011341371
+ec2-306-153-163.compute-1.amazonaws.com,81.18949610258562
+ec2-334-135-103.compute-1.amazonaws.com,27.119609734103886
+ec2-289-95-241.compute-1.amazonaws.com,7.278392980676278
+ec2-297-210-59.compute-1.amazonaws.com,29.84149386038315
+ec2-308-170-143.compute-1.amazonaws.com,51.28961643201314
+ec2-280-154-143.compute-1.amazonaws.com,30.241847487640506
+ec2-311-207-112.compute-1.amazonaws.com,39.441173106506625
+ec2-344-48-192.compute-1.amazonaws.com,4.607361371793293
+ec2-306-108-235.compute-1.amazonaws.com,87.05859953736172
+ec2-325-37-203.compute-1.amazonaws.com,32.70800174797377
+ec2-344-230-42.compute-1.amazonaws.com,63.04658869215003
+ec2-305-193-30.compute-1.amazonaws.com,64.66665159920063
+ec2-345-72-27.compute-1.amazonaws.com,78.03146786825494
+ec2-334-125-244.compute-1.amazonaws.com,49.85343262330907
+ec2-341-144-249.compute-1.amazonaws.com,14.305759323832719
+ec2-321-184-114.compute-1.amazonaws.com,92.60348213870252
+ec2-263-14-195.compute-1.amazonaws.com,89.05093995267936
